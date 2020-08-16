@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "faker": "^4.1.0"
+    "faker": "^4.1.0",
+    "taiko": "^1.0.18"
   },
   "devDependencies": {
     "mocha": "^8.1.1"
