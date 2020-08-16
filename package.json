@@ -1,0 +1,21 @@
+{
+  "name": "jsforqa",
+  "version": "1.0.0",
+  "description": "mocha test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
